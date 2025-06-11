@@ -2,10 +2,11 @@
   "__resolveType": "site/apps/deco/shopify.ts",
   "adminAccessToken": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "6378c07c4148a36786a94dc9bf5f351f836991f9d17989e0cf3a0af449d4bc39a93c5b76674866aed1b1d4663bc01ee5",
+    "encrypted": "4426b5cf0d3d86b46d70e627fe25fdc88e23ec23ff4b871735849701018724ae24ce92fa2dbca99bf19769ff8105eb66",
     "name": "SHOPIFY_ACCESS_TOKEN"
   },
   "platform": "shopify",
-  "storeName": "gimenesdevstore",
-  "storefrontAccessToken": "71f2c3da0dab3b4eee7dce35eb8c6113"
+  "storeName": "btense",
+  "storefrontAccessToken": "df9ef73284006e645fe1370d9b19ae30",
+  "publicUrl": "pineappleboxstore.myshopify.com"
 }
